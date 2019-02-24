@@ -1,0 +1,3 @@
+[submodule "hggit-test-sub"]
+	path = hggit-test-sub
+	url = https://github.com/dmitriyse/hggit-test-sub.git
